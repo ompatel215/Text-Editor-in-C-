@@ -1,1 +1,1 @@
-# Text-Editor-in-C++
+# Text Editor in C++
